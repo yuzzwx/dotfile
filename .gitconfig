@@ -1,0 +1,8 @@
+[user]
+	email = yuzzwx@gmail.com
+	name = yuzzwx
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
